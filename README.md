@@ -1,7 +1,7 @@
 
 ------------------------------------------------------------------------------------------------------
 # RENDOR method for removing indirect noise
-Removing indirect noise for better inference of gene regulatory networks.
+Reverse network diffusion to remove indirect noise for better inference of gene regulatory networks.
 
 
 ## Authors
